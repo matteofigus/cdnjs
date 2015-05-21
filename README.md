@@ -2,6 +2,8 @@
 
 # cdnjs Library Repository
 
+[![Join the chat at https://gitter.im/matteofigus/cdnjs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/matteofigus/cdnjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [cdnjs](http://github.com/cdnjs/cdnjs) is the repository mirroring all library assets on [cdnjs.cloudflare.com](http://cdnjs.cloudflare.com).
 
 [Thomas Davis](https://twitter.com/neutralthoughts) and [Ryan Kirkman](https://twitter.com/ryan_kirkman) created cdnjs, [Drew Freyling](http://decompile.it/blog/) and [Peter Dave Hello](https://github.com/PeterDaveHello) are maintainers. [Juan Gallardo](http://www.jgallardo.me/) is our community moderator.
